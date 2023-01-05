@@ -1,7 +1,6 @@
 ## Olá, eu sou o Patrick  👋
 
-- 🔭 Estou à procura da minha primeira oportunidade como desenvolvedor;
-- 🌱 Estudando no momento Typescript;
+- 🌱 Estudando no momento Ruby on Rails;
 - 😄 Pronouns: ele/dele.
 
 <div align="center">
