@@ -1,7 +1,5 @@
 ## Olá, eu sou o Patrick  👋
 
-- 🌱 Estudando no momento Ruby on Rails;
-- 😄 Pronouns: ele/dele.
 
 <div align="center">
   <a href="https://github.com/patrick-cuppi">
