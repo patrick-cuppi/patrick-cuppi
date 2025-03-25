@@ -5,7 +5,7 @@
 I am an Industrial Engineer and Full Stack Developer passionate about technology and innovation.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Patrick;Welcome+to+my+profile!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hellooo;Welcome+to+my+profile!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
 
 
