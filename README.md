@@ -32,6 +32,6 @@ I am an Industrial Engineer and Full Stack Developer passionate about technology
 </div>
 
 <p align="center">
-  <img id="preview" src="https://komarev.com/ghpvc/?username=drknzz&color=grey">
+  <img id="preview" src="https://komarev.com/ghpvc/?username=patrick&color=grey">
 </p>
 
