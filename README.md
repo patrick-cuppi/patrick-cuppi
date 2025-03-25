@@ -17,6 +17,7 @@ I am an Industrial Engineer and Full Stack Developer passionate about technology
 
 <div align="center"><br>
   <img align="center" alt="Patrick-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+  <img align="center" alt="Patrick-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Patrick-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Patrick-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img align="center" alt="Patrick-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
@@ -28,7 +29,7 @@ I am an Industrial Engineer and Full Stack Developer passionate about technology
 ##
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/patrick-cuppi-796106195" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/patrick-cuppi-796106195" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank noopener noreferrer"></a> 
 </div>
 
 ##
