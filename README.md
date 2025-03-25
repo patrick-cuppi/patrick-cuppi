@@ -30,7 +30,7 @@ I am an Industrial Engineer and Full Stack Developer passionate about technology
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/patrick-cuppi-796106195" target="_blank noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>
 
