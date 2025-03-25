@@ -1,11 +1,12 @@
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
+
 ## Hello, I am Patrick  👋
-I am a Full Stack Developer passionate about technology, innovation, and problem-solving. 
+I am an Industrial Engineer and Full Stack Developer passionate about technology and innovation.
 
-Currently, I have been working on projects using React.js or Next.js, JavaScript, and TypeScript, Node.js (Fastify), Prisma ORM, Vitest, Docker (PostgreSQL, and Redis when necessary), and AWS, always following Clean Code principles and agile methodologies such as Scrum and Kanban. I also have experience with SSG (Static Site Generation) and SSR (Server-Side Rendering) projects.
-
-I possess knowledge of distributed and monolithic architectures, design patterns, DDD (Domain-Driven Design) approach, TDD (Test-Driven Development) technique, and SOLID principles.
-
-In addition to the aforementioned technologies, I have experience developing REST APIs in Python (Flask and Django) and Java (Spring Boot), working with ORMs such as SQLAlchemy, Sequelize, Drizzle, and Hibernate, implementing unit, integration, and end-to-end testing (Vitest or Jest), handling NoSQL databases (MongoDB) and SQL databases (MySQL, PostgreSQL, and SQLite), as well as utilizing AWS services (S3, EC2, Lambda, API Gateway, and Cognito).
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Patrick;Welcome+to+my+profile!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</p>
 
 
 <div align="center">
@@ -14,7 +15,7 @@ In addition to the aforementioned technologies, I have experience developing RES
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-cuppi&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div align="center"><br>
   <img align="center" alt="Patrick-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
   <img align="center" alt="Patrick-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Patrick-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
@@ -29,3 +30,8 @@ In addition to the aforementioned technologies, I have experience developing RES
 <div> 
   <a href="https://www.linkedin.com/in/patrick-cuppi-796106195" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<p align="center">
+  <img id="preview" src="https://komarev.com/ghpvc/?username=drknzz&color=grey">
+</p>
+
