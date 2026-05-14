@@ -28,12 +28,4 @@ Currently, I'm deepening my knowledge in high-concurrency systems and systems pr
 
 ---
 
-### 🌱 Currently Exploring & Learning
-
-- **Systems Programming:** Mastering **Rust** for high-performance and memory-safe applications.
-- **Modern Backend:** Expanding expertise in the **Go (Golang)** ecosystem.
-- **Web3 & Blockchain:** Studying smart contracts and the Solana ecosystem.
-
----
-
 _"Turning complex problems into elegant, scalable solutions."_
